@@ -1,0 +1,1 @@
+# Projet ECUE11.2 - 25/26 - Calcul Différentiel, Intégral et Stochastique II, Mines Paris
